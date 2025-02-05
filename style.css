@@ -1,11 +1,26 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#index-div {
+    background-color: rgb(250, 158, 158);
 }
 
 #index-div ul {
     font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    margin: 10px;
+    padding: 10px;
 }
 
 h1{
     text-align: center;
+    margin: 10px;
 }
